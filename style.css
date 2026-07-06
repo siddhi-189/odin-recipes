@@ -1,0 +1,44 @@
+.main-card{
+    width: 600px;
+    min-height: 220px;
+    background-color:rgb(223, 237, 243);
+    margin: 10px auto;
+    padding: 10px;
+}
+
+hr{
+    color:rgb(117, 119, 122);
+}
+.main-content{
+    width: 580px;
+    box-sizing: border-box;
+    background-color:rgb(196, 223, 233);
+    text-align:center;
+    padding: 15px 15px;
+    border-radius: 10px;
+    margin: 10px auto;
+}
+#recipe-bullet{
+    font-size:22px;
+}
+
+
+/* Pav bhaji */
+
+.recipes{
+    background-color: rgb(222, 243, 181);
+}
+
+.main-recipe{
+    text-align:center;
+    background-color:rgb(197, 227, 136);
+    border-color: black;
+    padding: 10px;
+    margin: 20px;
+}
+
+.list-items{
+    text-align:center;
+    list-style-position: inside;
+    padding-left:0px;
+}
