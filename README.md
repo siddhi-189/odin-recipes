@@ -2,7 +2,7 @@
 
 This is my first project from The Odin Project.
 
-It is a basic recipe website built using HTML. The website contains a homepage with links to multiple recipe pages. Each recipe page includes an image, description, ingredients, and cooking steps.
+It is a basic recipe website built using HTML and CSS. The website contains a homepage with links to multiple recipe pages. Each recipe page includes an image, description, ingredients, and cooking steps with little css styling features.
 
 ## Skills Demonstrated
 
@@ -11,4 +11,5 @@ It is a basic recipe website built using HTML. The website contains a homepage w
 - Links
 - Images
 - Ordered and unordered lists
+- CSS styles
 - Git and GitHub
